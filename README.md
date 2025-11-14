@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, System Design & Production-grade APIs**
 
-- 📫 Reach me at **ayush@example.com** (replace with your own)
+- 📫 Reach me at **guptaayush2526@gmail.com**
 
 - ⚡ Fun fact: **Ayush can fix bugs faster than he can decide what to eat 😆🔥**
 
