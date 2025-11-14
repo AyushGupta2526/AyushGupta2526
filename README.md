@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="posters.png" alt="Ayush Gupta Banner" width="100%" height="auto" style="max-width: 900px; height: 450px;"/>
+  <img src="posters.png" alt="Ayush Gupta Banner" width="100%" height="auto" style="max-width: 900px; height: 350px;"/>
 </h1>    
            
 <h1 align="center">Hi 👋 I'm Ayush Gupta</h1> 
