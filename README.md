@@ -10,7 +10,7 @@
 </a>
 
 <p align="left">
-  <a href="https://x.com/ayush" target="blank">
+  <a href="https://x.com/Ayushgupta2526" target="blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" alt="X" width="30" height="30"/>
   </a>      
 </p>    
@@ -25,21 +25,17 @@
 
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
-<a href="https://twitter.com/ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="1" width="1" /></a>
+<a href="https://x.com/Ayushgupta2526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="1" width="1" /></a>
 
-<a href="https://www.linkedin.com/in/ayush" target="blank">
+<a href="www.linkedin.com/in/ayushgupta2526" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.kaggle.com/ayush" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/ayush" target="blank">
+<a href="https://leetcode.com/u/guptaayush2526/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-<a href="https://discord.gg/ayush" target="blank">
+<a href="https://discord.gg/@whoayushgupta" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 </p>
