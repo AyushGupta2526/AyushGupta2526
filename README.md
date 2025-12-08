@@ -1,19 +1,18 @@
 <h1 align="center">
   <img src="posters.png" alt="Ayush Gupta Banner" width="100%" height="auto" style="max-width: 900px; height: 350px;"/>
-</h1>    
+</h1>   
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AyushGupta2526&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
 <h1 align="center">Hi 👋 I'm Ayush Gupta</h1>
+
 <h3 align="center">Full Stack Developer from India 🇮🇳 | Bringing ideas to life with clean UI, smart APIs, and scalable systems ⚡</h3>
+
 
 <img align="right" alt="coding" height="200" width="200" 
      src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
-
-<p align="left">
-  <a href="https://x.com/Ayushgupta2526" target="_blank">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" 
-         alt="X" width="30" height="30"/>
-  </a>
-</p>
 
 <ul>
   <li>🔭 I’m currently working on <b>modern full-stack web apps using React, Node.js, Express & MongoDB</b></li>
@@ -39,6 +38,10 @@
 
   <a href="https://discord.com/users/709827041989754931" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/Ayushgupta2526" target="_blank">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" 
+         alt="X" width="30" height="30"/>
   </a>
 
 </p>
